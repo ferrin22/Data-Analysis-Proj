@@ -1,0 +1,45 @@
+ -------------------------------------------------------------------
+| File (.html)    | Data                                            |
+|-------------------------------------------------------------------|
+| C1 - C12        | College Quarterback Statistics    - 2012 Season |
+| r1 - r47        | College Reciever Statistics       - 2012 Season |
+| U1 - U36        | College Running Back Statistics   - 2012 Season |
+| Hqb1 - Hqb3     | High School Quarterback Rankings  - 2010 Season |
+| Hrb4 - Hrb7     | High School Running Back Rankings - 2010 Season |
+| Hwr8 - Hwr12    | High School Reciever Rankings     - 2010 Season |
+ -------------------------------------------------------------------
+
+High School Football Statistics Aquired From: 
+    Rivals.com (http://sports.yahoo.com/ncaa/football/recruiting/recruit-search-results)
+College Football Statistics Aquired From: 
+    ESPN.go.com (http://espn.go.com/college-football/statistics/player/_/stat/passing/sort/passingYards/year/2012)
+    
+
+Raw High Shcool Data:
+ -------------------------------------------------------------------
+| Columns         | Description                                     |
+|-------------------------------------------------------------------|
+| Positison       | High School Football Positsion                  |
+| Name            | Player Name                                     |
+| Location        | High School Location - City, State, School      |
+| Ht              | Height                                          |
+| Wt              | Weight                                          |
+| 40              | 40-yard dash time in seconds                    |
+| Stars           | Recruit class - 5, 4, 3, 2, 1 with 5 being best |
+| Rivals Ranking  | Rivals.com Ranking                              |
+| School          | College Attended                                |
+ -------------------------------------------------------------------
+ 
+ Raw College Data:
+ -------------------------------------------------------------------
+| Columns         | Description                                     |
+|-------------------------------------------------------------------|
+| Player          | Player Name                                     |
+| Team            | College Name                                    |
+| ATT             | Rushing/Passing/Caching Attempts                |
+| YDS             | Total Yards                                     |
+| YDS/A           | Yards per Run/Throw/Catch                       |
+| LONG            | Longest Rush/Pass/Catch                         |
+| TD              | Total Touchdowns for the Season                 |
+ -------------------------------------------------------------------
+ 

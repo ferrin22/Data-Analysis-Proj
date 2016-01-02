@@ -1,0 +1,12 @@
+ Cleaned Data
+ -------------------------------------------------------------------
+| Columns         | Description                                     |
+|-------------------------------------------------------------------|
+| Name            | Player Name                                     |
+| Position        | Player Position                                 |
+| State           | High School State                               |
+| Stars           | High School Recruit Ranking                     |
+| Yards           | Total Yards During Junior College Season        |
+| TD              | Total Touchdowns During Junior College Season   |
+ -------------------------------------------------------------------
+ 
